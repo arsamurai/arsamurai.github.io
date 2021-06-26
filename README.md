@@ -1,6 +1,6 @@
 # Artur Musienko
 
-![me](https://github.com/arsamurai/arsamurai.github.io/blob/main/Carsharing/images/photo_2021-06-16_20-48-41.jpg =250x150)
+![me](https://github.com/arsamurai/arsamurai.github.io/blob/main/Carsharing/images/photo_2021-06-16_20-48-41.jpg =250x)
 
 List of my works:
 
