@@ -6,4 +6,4 @@ List of my works:
 
 * [Online-Shop](https://arsamurai.github.io/Shop/)
 
-* [Pizza-react-app](https://pizza-react-my-app.herokuapp.com/)
+* [Pizza-app (React.js)](https://pizza-react-my-app.herokuapp.com/)
