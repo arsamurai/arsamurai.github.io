@@ -1,6 +1,6 @@
 # Artur Musienko
 
-List of my works:
+List of my several works:
   
 * [Glenport (Pug, Scss)](https://glenport.netlify.app/)
 
