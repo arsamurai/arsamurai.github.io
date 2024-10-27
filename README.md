@@ -11,3 +11,5 @@ List of my several works:
 * [Life (Tailwind)](https://life-landing.netlify.app/)
 
 * [ProfiCRM (Tailwind)](https://profi-crm.netlify.app/ua/)
+  
+* [Kido Quiz (Tailwind, Email.js)](https://kido-quiz.netlify.app/)
