@@ -13,3 +13,5 @@ List of my several works:
 * [ProfiCRM (Tailwind)](https://profi-crm.netlify.app/ua/)
   
 * [Kido Quiz (Tailwind, Email.js)](https://kido-quiz.netlify.app/)
+  
+* [Recipes App (React, React Query, Zustand)](https://kido-quiz.netlify.app/](https://recipes-applic.netlify.app/))
