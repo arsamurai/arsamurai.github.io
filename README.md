@@ -14,4 +14,4 @@ List of my several works:
   
 * [Kido Quiz (Tailwind, Email.js)](https://kido-quiz.netlify.app/)
   
-* [Recipes App (React, React Query, Zustand)](https://kido-quiz.netlify.app/](https://recipes-applic.netlify.app/))
+* [Recipes App (React, React Query, Zustand)](https://recipes-applic.netlify.app/)
