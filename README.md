@@ -9,8 +9,6 @@ List of my several works:
 * [ALLSIDES (Pug, Scss)](https://allsides.netlify.app/)
 
 * [Life (Tailwind)](https://life-landing.netlify.app/)
-
-* [ProfiCRM (Tailwind)](https://profi-crm.netlify.app/ua/)
   
 * [Kido Quiz (Tailwind, Email.js)](https://kido-quiz.netlify.app/)
   
